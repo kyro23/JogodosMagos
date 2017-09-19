@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="elementos_array">
+        <item>Asa de Morcego</item>
+        <item>Sapo</item>
+        <item>Veneno de Cobra</item>
+        <item>Escama de Sereia</item>
+        <item>Pena de Aguia</item>
+        <item>Besouro</item>
+        <item>Cogumelo</item>
+        <item>Escorpiao</item>
+    </string-array>
+
+</resources>
